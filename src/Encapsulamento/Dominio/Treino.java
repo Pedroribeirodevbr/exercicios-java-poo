@@ -1,4 +1,4 @@
-package Dominio;
+package Encapsulamento.Dominio;
 
 public class Treino {
     private String tipoExercicio;  //ex jiu jitsu, corrida etc..

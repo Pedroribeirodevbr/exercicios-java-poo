@@ -1,6 +1,6 @@
-package Teste;
+package Encapsulamento.Teste;
 
-import Dominio.Celular;
+import Encapsulamento.Dominio.Celular;
 
 public class CelularTest01 {
     static void main(String[] args) {

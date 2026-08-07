@@ -1,4 +1,4 @@
-package Dominio;
+package Encapsulamento.Dominio;
 
 public class EstoqueProduto {
     private String nome;

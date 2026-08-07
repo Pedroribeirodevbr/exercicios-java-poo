@@ -1,6 +1,6 @@
-package Teste;
+package Encapsulamento.Teste;
 
-import Dominio.Treino;
+import Encapsulamento.Dominio.Treino;
 
 public class treinoTest {
     static void main(String[] args) {

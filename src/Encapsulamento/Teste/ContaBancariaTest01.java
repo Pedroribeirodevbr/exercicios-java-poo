@@ -1,6 +1,6 @@
-package Teste;
+package Encapsulamento.Teste;
 
-import Dominio.ContaBancaria;
+import Encapsulamento.Dominio.ContaBancaria;
 
 public class ContaBancariaTest01 {
     static void main(String[] args) {

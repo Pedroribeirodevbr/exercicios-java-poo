@@ -1,6 +1,6 @@
-package Teste;
+package Encapsulamento.Teste;
 
-import Dominio.EstoqueProduto;
+import Encapsulamento.Dominio.EstoqueProduto;
 
 public class EstoqueProdutoTest {
     static void main(String[] args) {

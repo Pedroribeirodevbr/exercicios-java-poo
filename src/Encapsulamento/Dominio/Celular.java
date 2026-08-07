@@ -1,4 +1,4 @@
-package Dominio;
+package Encapsulamento.Dominio;
 
 public class Celular {
     private String marca;
